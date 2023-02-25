@@ -2,7 +2,7 @@
   "name": "@peterroe/monorepo",
   "version": "1.0.0",
   "private": true,
-  "packageManager": "pnpm@7.11.0",
+  "packageManager": "pnpm@7.28.0",
   "description": "monorepo-template",
   "author": "peterroe",
   "license": "MIT",
